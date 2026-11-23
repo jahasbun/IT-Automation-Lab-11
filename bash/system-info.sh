@@ -8,7 +8,7 @@
 
 # Student Information
 # Change the name below to your full name.
-STUDENT_NAME="Your Name Here"
+STUDENT_NAME="Jose Hasbun"
 
 # Display student information
 echo "=================================="
